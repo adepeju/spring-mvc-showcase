@@ -46,7 +46,7 @@
 This is the second line to be added
 </p>
 <p>
-Lagical Point Technology will surely take you places.
+Lagical Point Technology will surely take you places. At Lagical, we take care of our own. Please give us a call today and let us be of service to you!
 </p>
 		<ul>
 			<li>
